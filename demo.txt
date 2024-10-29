@@ -1,5 +1,1 @@
-Experiment No. 3
-
-Aim: To perform various git operations on local and remote repositories.
-
-Conclusion: Henceforth, 
+this is my experiment 3
